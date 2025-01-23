@@ -1,0 +1,218 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3126,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"last_filter": "in",
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"i",
+						"Package Control: Install Package→安装插件"
+					]
+				],
+				"width": 594.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/34782/AppData/Local/Temp/Rar$DIa8200.12313/login.jsp",
+				"/C/Users/34782/AppData/Local/Temp/Rar$DIa6384.38538/login.jsp",
+				"/D/note/springMVC/code/sprIngMVC-jsp/src/main/webapp/index.jsp",
+				"/D/shool_home/EAManagementSystem/src/main/webapp/WEB-INF/templates/tbClass/teacherClassManager.jsp",
+				"/D/note/springMVC/code/sprIngMVC-jsp/src/main/webapp/WEB-INF/templates/success.jsp",
+				"/D/note/JavaWeb/code/book/web/pages/cart/cart.jsp",
+				"/D/note/JavaWeb/code/book/web/index.jsp",
+				"/D/shool_home/源码/教务管理系统/教务管理系统/webapp/showStudentManage.jsp",
+				"/D/shool_home/源码/教务管理系统/教务管理系统/webapp/adminMain.jsp",
+				"/D/note/JavaWeb/code/book/web/pages/manager/book_manager.jsp",
+				"/D/shool_home/源码/教务管理系统/教务管理系统/webapp/showSchool.jsp",
+				"/D/shool_home/源码/教务管理系统/教务管理系统/webapp/login.jsp",
+				"/D/shool_home/源码/教务管理系统/教务管理系统/webapp/showAdminPerson.jsp",
+				"/D/shool_home/源码/教务管理系统/教务管理系统/webapp/showAdminCategory.jsp",
+				"/D/shool_home/源码/教务管理系统/教务管理系统/webapp/adminClassManage.jsp",
+				"/D/idea_java_projects/chapter19/src/com/hspedu/outputstream/FileCopy.java",
+				"/D/note/JAVA后半部分/java正则表达式大全(参考).java",
+				"/D/idea_java_projects/分享资料/分享资料/RegTheory.java",
+				"/D/idea_java_projects/分享资料/分享资料/StreamUtils.java",
+				"/D/idea_java_projects/chapter19/src/com/hspedu/outputstream/BufferedCopy02.java",
+				"/C/Users/34782/AppData/Local/JetBrains/IntelliJIdea2022.3/tomcat/41e9e2d3-9925-4ab1-818c-f255e2847319/work/Catalina/localhost/jsp_/org/apache/jsp/include/main2_jsp.java",
+				"/C/Users/34782/AppData/Local/JetBrains/IntelliJIdea2022.3/tomcat/41e9e2d3-9925-4ab1-818c-f255e2847319/work/Catalina/localhost/jsp_/org/apache/jsp/a_jsp.java"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,943,452,112,1721",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
