@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>轻音少女</h1>
+<a th:href="@{/test/testRequestMapping}">@RequestMapping注解</a>
+<a th:href="@{/testRequestMapping}">@RequestMapping注解2</a>
+<a th:href="@{/test}">@RequestMapping注解3</a>
+
+<a th:href="@{/test}">测试@RequestMapping的value属性-->/test</a><br>
+<form th:action="@{/test}" method="post">
+    <input type="submit">
+</form><br>
+<a th:href="@{/test(username='admin', password=123456)}">测试@RequestMapping的params属性-->/test</a><br>
+
+<a th:href="@{/aaa/testAnt}">化物语</a><br>
+<a th:href="@{/aaa/testAnt}">恋物语</a><br>
+<a th:href="@{/aaa/testAnt}">伤物语</a><br>
+
+<a th:href="@{/testRest/1/admin}">星际牛仔</a>
+
+<form th:action="@{/testpojo}" method="post">
+    用户名：<input type="text" name="username"><br>
+    密码：<input type="password" name="password"><br>
+    性别：<input type="radio" name="sex" value="男">男
+    <input type="radio" name="sex" value="女">女<br>
+    年龄：<input type="text" name="age"><br>
+    邮箱：<input type="text" name="email"><br>
+    <input type="submit" value="使用实体类接收请求参数">
+</form>
+
+</body>
+</html>
