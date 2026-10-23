@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="../../jquery-1.7.2.js"></script>
+    <script type="text/javascript">
+        window.onload = function () {
+            alert("原生js的页面加载完成之后--1");
+        }
+        window.onload = function () {
+            alert("原生js的页面加载完成之后--2");
+        }
+        window.onload = function () {
+            alert("原生js的页面加载完成之后--3");
+        }
+
+        $(function () {
+            alert("jquery的页面加载完成之后--1");
+        });
+        $(function () {
+            alert("jquery的页面加载完成之后--2");
+        });
+        $(function () {
+            alert("jquery的页面加载完成之后--3");
+        });
+    </script>
+</head>
+<body>
+
+    <button>我是按钮</button>
+    <iframe src="https://www.bilibili.com"></iframe>
+    <img src="https://www.bilibili.com/1.jpg" alt=""/>
+
+</body>
+</html>

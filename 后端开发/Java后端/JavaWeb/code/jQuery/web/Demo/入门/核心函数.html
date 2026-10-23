@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="../script/jquery-1.7.2.js"></script>
+    <script type="text/javascript">
+
+        // 核心函数的4个作用
+        // 1.传入参数为[函数]时：在文档加载完成后执行这个函数
+        //    表示页面加载完成之后。相当于 window.onload = function()0
+            /*
+                $(function () {
+                    alert("页面加载完成之后，自动调用");
+                });
+             */
+
+        // 2.传入参数为[HTML字符串]时：根据这个字符串创建元素节点对象
+        //    会对我们创建这个html标签对象
+            /*
+                $(function () {
+                    $("<div>" +
+                          "<span>div-span1</span>" +
+                          "<span>div-span2</span>" +
+                      "</div>").appendTo("body");
+                });
+            */
+
+        // 3.传入参数为[选择器字符串]时：根据这个字符串查找元素节点对象
+        //    $("#id 属性值");     id选择器，根据id查询标签对象
+        //    $("标签名");         标签名选择器，根据指定的标签名查询标签对象
+        //    $(".class 属性值");  类型选择器，可以根据 class 属性查询标签对象
+            /*
+                $(function () {
+                    alert($("button").length);
+                })
+            */
+
+        // 4.传入参数为[DOM对象]时：00M对象包装为jQuery对象返回
+        //    会把这个dom对象转换为jQuery对象
+        var btnObj = document.getElementById("btn01");
+        alert( $(v=btnObj) );
+    </script>
+</head>
+<body>
+
+  <button>按钮1</button>
+  <button>按钮2</button>
+  <button>按钮3</button>
+</body>
+</html>
